@@ -34,3 +34,4 @@ User acceptance criteria: In bullet points with all requirements from relevant u
 
 4. **Tracking Progress**:
    - We will move issues between columns to represent the task’s current stage of completion
+   - We will add comments to the issues we are working on if anything needs to be changed, clarified, or reviewed
